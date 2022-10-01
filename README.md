@@ -5,5 +5,5 @@
 - I code mainly in C#, Python, and C 👨‍💻 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/oliver-svrcek/"><img src="https://user-images.githubusercontent.com/75705745/193422482-bc51222b-c062-4a4d-bf83-56a3fb49eb7c.png" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/oliver-svrcek/"><img src="https://user-images.githubusercontent.com/75705745/193422791-559a95ae-5773-4c30-931a-0b4d4839c9c4.png" alt="LinkedIn Badge"></a>
 </p>
